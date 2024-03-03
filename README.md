@@ -1,9 +1,9 @@
-# @anio-js-core-foundation/is-primitive
+# @anio-js-foundation/is-primitive
 
 Check if a given value is a primitive or not.
 
 ```js
-import isPrimitive from "@anio-js-core-foundation/is-primitive"
+import isPrimitive from "@anio-js-foundation/is-primitive"
 
 // prints true
 console.log(isPrimitive("abc"))

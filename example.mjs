@@ -1,4 +1,4 @@
-import isPrimitive from "./index.mjs"
+import isPrimitive from "./src/index.mjs"
 
 // prints true
 console.log(isPrimitive("abc"))
