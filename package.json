@@ -1,6 +1,6 @@
 {
   "name": "@anio-js-foundation/is-primitive",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Check if a given value is a primitive or not.",
   "main": "./dist/package.mjs",
   "author": "Anio Software <info@anio.software>",
